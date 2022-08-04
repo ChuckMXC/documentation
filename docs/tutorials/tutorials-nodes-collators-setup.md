@@ -151,6 +151,11 @@ To start collating, you need to have 10 DHX tokens
 Onboarding takes place at **_n+1_** session. Once your collator is active, you will see your collator inside **Network** tab every time you produce a block.
 You will also see your collator in **_Network > Collators_**. 
 
+### Do you have any questions ?
 
+DataHighway discord has a dedicated channel for any collators questions.
+Join our discord and head on to the 🌀-collators-🌀 channel, in the Support category.
+
+To join our discord, simply go to datahighway.com and scroll down until you see the discord logo. Click on it and become a member of the DataHighway familly. 
 
 
